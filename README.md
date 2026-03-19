@@ -80,12 +80,19 @@ ORDER BY total_sales DESC;
 
 ## 💡 Key Insights
 
-- Certain products contribute significantly to total revenue
-- A few stores generate the majority of sales
-- Sales show variation across different months
-- Top customers play an important role in revenue generation
+- The total revenue generated is 10194.08 .This gives a baseline understanding of overall sales performance and will be used to compare product, store, and customer contributions.
 
----
+- Dark Chocolate 50% is the top-selling product, contributing the highest revenue of 1079.8 . Both mid-range and premium chocolates perform well, indicating diverse customer preferences.
+
+- Chocolate Store 52 leads in total sales, highlighting uneven performance across store locations. This indicates potential opportunities to improve sales strategies in lower-performing stores.
+
+- Sales fluctuate throughout the year, with a peak in May and a sharp drop in June. This indicates possible seasonal trends or external factors affecting customer demand, highlighting opportunities for targeted marketing during low-performing months.
+
+- The top 10 customers show similar spending levels, suggesting a balanced contribution rather than dependency on a single high-value customer. This indicates a stable customer base with multiple revenue contributors.
+
+- Praline is the top-performing category, generating the highest revenue, while White and Dark chocolates show moderate performance and Truffle and Milk lag behind.
+
+- Sales are highest without discounts, and moderate discounts perform better than higher discounts, indicating that heavy discounting is not necessary to drive revenue.
 
 ## 🚀 Conclusion
 
